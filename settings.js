@@ -27,7 +27,7 @@ global.premium = ['+94782892785'] //Owner Number info
 global.ownernomer = '+94782892785' //Owner Number <<<
 
 global.ownername = '㍍⃞▸Cyber Panda🐼' //Owner Name
-global.botname = ' ͘͢҂ℂᎽՅEƦ Ҥλ₡ƙEƦ$҂🎭' //Bot Name
+global.botname = '㍍CYBER BOT🇱🇰' //Bot Name
 
 global.button = 'Telegram' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://t.me/cyberpandahack' //Change Your Button's URL
@@ -40,7 +40,7 @@ global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Cyber panda.' //In list menu
+global.footer = '©_Cyberpanda.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://wa.me/+94782892785' //Github Account!
